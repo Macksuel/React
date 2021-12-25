@@ -13,4 +13,31 @@ body {
     color: #fff;
     font-size: 50px;
   }
+
+  p {
+    text-align: center;
+    color: #fff;
+  }
+
+  strong {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: yellow;
+    margin-top: 3em;
+  }
+  a {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #hello {
+    text-align: center;
+    margin-top: 2em;
+  }
+  #counter {
+    margin-top: 2em;
+  }
 }
