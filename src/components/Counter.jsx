@@ -12,11 +12,12 @@ export function Counter(){
         console.log(counter);
     }
 
-
     return (
         <div>
             <h2>{counter}</h2>
             <button type="button" onClick={incrementar}>adicionar</button>
+                {/* <br />
+            <button type="button" onClick={zerar}>Zerar</button> */}
         </div>
     );
 }
