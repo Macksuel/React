@@ -15,15 +15,18 @@ section.repository-list {
 
       p {
         font-size: 14px;
-        color: #444;
+        color: #fff;
         margin-top: 8px;
       }
 
       a {
-        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         margin-top: 16px;
         text-decoration: none;
-        color: #825786;
+        color: greenyellow;
+        text-align: center;
       }
     }
   }
